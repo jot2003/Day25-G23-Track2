@@ -73,15 +73,3 @@ Hãng hàng không chịu ràng buộc pháp lý (Luật Hàng không dân dụn
 - Rủi ro trọng tâm: AI không chuyển sang nhân viên thật khi cần (escalation failure) trong 3 tình huống: khách bức xúc vì delay/hủy, đàm phán hoàn tiền phức tạp, yêu cầu hỗ trợ đặc biệt
 - Câu hỏi thật hay gặp: "Vé của tôi có được hoàn không?", "Chuyến bay trễ bao lâu thì tôi được bồi thường?", "Tôi cần đưa người thân dùng xe lăn lên máy bay thì làm thế nào?"
 
----
-
-## Cách dùng
-
-```text
-1. Mở công cụ AI phù hợp với bước đang làm.
-2. Đưa toàn bộ nội dung file này vào đầu cuộc trò chuyện.
-3. Chọn prompt tham khảo từ thư mục ../prompts/ và chỉnh lại nếu cần.
-4. Đọc lại bản nháp AI tạo ra.
-5. Sửa lại cho đúng bối cảnh nhóm.
-6. Lưu kết quả vào đúng file trong worksheet/.
-```
