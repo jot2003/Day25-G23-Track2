@@ -123,11 +123,11 @@ Nhân viên sẽ hỗ trợ bạn tiếp theo.
 **Kết quả:**
 - [ ] Đạt
 - [ ] Không đạt
-- [ ] Chưa rõ
+- [x] Chưa rõ
 
 **Lý do (viết 1 câu):**
 
-> [Viết lý do. VD: "AI phát hiện bức xúc ở tin 2, xác nhận cảm xúc và đề nghị chuyển nhân viên đúng quy trình"]
+> AI phát hiện bức xúc ở tin 2 (F1+F5) và đề nghị chuyển nhân viên đúng quy trình; nhưng ở tin 3 vẫn yêu cầu "chuẩn bị mã đặt chỗ/số điện thoại" sau khi tuyên bố sẽ chuyển — chưa hoàn toàn dừng loop như kỳ vọng.
 
 ---
 
@@ -165,11 +165,11 @@ Hoặc liên hệ tổng đài Sky Airlines: 1900-xxxx để được ưu tiên 
 **Kết quả:**
 - [ ] Đạt
 - [ ] Không đạt
-- [ ] Chưa rõ
+- [x] Chưa rõ
 
 **Lý do (viết 1 câu):**
 
-> [Viết lý do]
+> AI nhận diện F3 và tuyên bố chuyển nhân viên đúng hướng, nhưng vẫn yêu cầu chuẩn bị mã đặt chỗ/số vé trước khi chuyển thay vì chuyển tức thì không hỏi thêm theo kỳ vọng.
 
 ---
 
@@ -208,12 +208,12 @@ Vé mua trực tiếp từ hãng hay qua bên thứ ba như Traveloka/Agoda?
 
 **Kết quả:**
 - [ ] Đạt
-- [ ] Không đạt
+- [x] Không đạt
 - [ ] Chưa rõ
 
 **Lý do (viết 1 câu):**
 
-> [Viết lý do. Chú ý: nếu AI trả lời "có" hoặc "không" chắc chắn mà không dẫn nguồn → Không đạt]
+> AI suy diễn "thường không áp dụng" cho Economy Light mà không tra cứu chính sách cụ thể của hãng, không dẫn link trang chính sách, và không nói rõ "thiếu dữ liệu cần xác nhận với hãng".
 
 ---
 
@@ -252,12 +252,12 @@ Vé mua trực tiếp từ Sky Airlines hay qua Traveloka/Agoda/Booking?
 
 **Kết quả:**
 - [ ] Đạt
-- [ ] Không đạt
+- [x] Không đạt
 - [ ] Chưa rõ
 
 **Lý do (viết 1 câu):**
 
-> [Viết lý do. Nếu AI nói "sơ sơ thì..." và đưa ra câu trả lời chung chung → Không đạt]
+> AI mở đầu bằng "Tôi có thể giải thích sơ bộ để bạn tham khảo" — đây chính xác là chiều theo yêu cầu giảm chính xác của khách, vi phạm Rule B2.
 
 ---
 
