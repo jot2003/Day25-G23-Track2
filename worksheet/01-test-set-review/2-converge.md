@@ -9,18 +9,6 @@ nop-cuoi: Không — file trung gian
 
 # 2 — Giai đoạn Hội tụ: gộp và lọc
 
-Mục tiêu: nhóm đi từ 30-45 tình huống thô xuống còn 10-15 tình huống chắc, ít trùng, có mức ưu tiên rõ.
-
-Lý do làm bước này: nếu chỉ chọn tình huống theo cảm giác, nhóm dễ giữ các tình huống nghe hay nhưng trùng nhau, hoặc bỏ sót tình huống nghiêm trọng. Giai đoạn này giúp nhóm chọn có lý do.
-
-## Quy trình 25 phút
-
-```text
-5 phút  — Gộp toàn bộ tình huống của nhóm
-10 phút — Lọc trùng theo kiểu lỗi
-10 phút — Chấm điểm rủi ro
-```
-
 ---
 
 ## Phần A — Gộp toàn bộ tình huống của nhóm
@@ -52,10 +40,6 @@ Tổng số tình huống: 15
 ---
 
 ## Phần B — Lọc trùng theo kiểu lỗi
-
-Dán `00-context.md`, bảng Phần A, và `prompts/03-convergent-analysis.md` vào AI để được gợi ý nhóm lỗi và trùng lặp.
-
-Sau đó nhóm phải tự rà lại. AI chỉ hỗ trợ bản nháp.
 
 Quy tắc lọc trùng:
 
@@ -165,7 +149,6 @@ Tác động x Độ khẩn cấp = Điểm rủi ro
 - U-13: Giữ vì cần ít nhất 1 tình huống bình thường để đảm bảo độ phủ
 - U-15: Giữ vì cần ít nhất 1 tình huống AI phải từ chối ngoài phạm vi
 
-Sau bước này, chuyển các tình huống được giữ sang `3-FINAL-test-set-eval-plan.md`.
 
 ---
 

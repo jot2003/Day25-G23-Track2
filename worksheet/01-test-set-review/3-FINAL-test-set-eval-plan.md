@@ -9,9 +9,6 @@ nop-cuoi: Có — file cuối Bài 1
 
 # 3 — Kết quả cuối: bộ kiểm thử v1 + kế hoạch chấm v1
 
-Mục tiêu: chốt 10-15 tình huống kiểm thử cuối và viết rõ cách chấm.
-
-File này sẽ được dùng tiếp ở Bài 2 để chọn rủi ro quan trọng nhất.
 
 ## Thông tin nhóm
 

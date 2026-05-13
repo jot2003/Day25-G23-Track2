@@ -208,12 +208,3 @@ Link chi tiết:
 | Đủ lớp | 3 lớp có bổ sung cho nhau không, hay đang lặp cùng một ý? | Bổ sung: Lớp 3 ngăn trước khi LLM xử lý; Lớp 2 phát hiện trong quá trình LLM xử lý; Lớp 1 cho phép người dùng tự chủ động thoát bất cứ lúc nào |
 | Tác dụng phụ | Giải pháp có làm chậm, tốn kém, rối giao diện, hoặc gây hiểu nhầm mới không? | Rủi ro: classifier thêm latency ~50-100ms; nút "Gặp nhân viên" luôn hiển thị có thể tăng load nhân viên. Giảm thiểu: cache kết quả classifier; hiển thị nút khéo léo không quá nổi bật ở trạng thái bình thường |
 
-## Gợi ý chia việc
-
-Nhóm 3 người:
-
-- Hoàng Kim Trí Thành: `artifact/1-uiux/`
-- Nguyễn Thành Nam: `artifact/2-prompt/`
-- Quách Gia Được: `artifact/3-architecture/`
-
-5 phút cuối: cả nhóm đọc chéo 3 lớp, sửa lại bảng tổng kiểm tra, rồi chuẩn bị phản biện chéo.
